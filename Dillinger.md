@@ -190,3 +190,7 @@ MIT
    [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
    [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
    [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
+   
+   
+   <https://medium.com/swlh/how-to-make-the-perfect-readme-md-on-github-92ed5771c061#:~:text=The%20extension.md%20stands%20for%20Markdown%20which%20is%20a,the%20correct%20Markdown%20script%20as%20your%20desired%20output.>
+   
